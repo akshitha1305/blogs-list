@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+.img-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.img {
+  height: 90px;
+  width: 90px;
+}
+.name {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+}
+.job {
+  text-align: center;
+  font-size: 18px;
+  color: grey;
+}
